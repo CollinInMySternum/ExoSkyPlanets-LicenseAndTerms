@@ -3,7 +3,7 @@ License and Terms for the EXOSKY PLANETS PLUGIN
 
 All Rights Reserved.
 
-Copyright (c) 2021-2024 EXOSKY PLANETS by Collin Blumenauer
+Copyright (c) 2021-2026 EXOSKY PLANETS by Collin Blumenauer
 
 No part of this content or source may be copied, reproduced, distributed, published, or transmitted in any form. Redistribution, resale, or sharing of plugin contents or source, even if modified, is prohibited.
 You may use the plugin in games, graphics, and digital media, provided that the plugin's contents and source remain inaccessible.
